@@ -1,0 +1,14 @@
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+namespace BabysitterTests
+{
+    [TestClass]
+    public class BabysitterKataTests
+    {
+        [TestMethod]
+        public void CheckStartTime()
+        {
+            job 
+        }
+    }
+}
